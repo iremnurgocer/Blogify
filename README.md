@@ -1,1 +1,1 @@
-# Blog yönetim paneli
+#LARAVEL ile Blog yönetim paneli
