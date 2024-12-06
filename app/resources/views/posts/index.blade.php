@@ -51,10 +51,25 @@
 </div>
 
 <!-- Footer -->
-<footer class="bg-gray-800 text-white py-4 mt-10">
+<footer class="bg-gray-800 text-white py-6 mt-10">
     <div class="container mx-auto text-center">
         <p>&copy; {{ date('Y') }} Blogify. All rights reserved.</p>
+        <div class="flex justify-center mt-4 space-x-6">
+            <a href="https://github.com/iremnurgocer" class="hover:underline" target="_blank">
+                GitHub
+            </a>
+            <a href="https://tr.linkedin.com/in/iremnurgocer" class="hover:underline" target="_blank">
+                LinkedIn
+            </a>
+            <a href="https://iremnurgocer.github.io/" class="hover:underline" target="_blank">
+                Website
+            </a>
+            <a href="mailto:iremnurgocer99@gmail.com" class="hover:underline">
+                Email
+            </a>
+        </div>
     </div>
 </footer>
+
 </body>
 </html>
